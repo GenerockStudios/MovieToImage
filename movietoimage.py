@@ -6,6 +6,7 @@ import sys
 
 SAVING_FRAMES_PER_SECOND = 10
 
+
 def format_timedelta(td):
     result = str(td)
     try:
